@@ -1,0 +1,22 @@
+.listExterieur {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    background-color: #ffffff;
+    margin-left: 10%;
+    border-radius: 5px; 
+    margin-right: 10%;
+    width: 80%;
+    height: 100%;
+}
+.myBalance {
+    background-color:#ffffff;
+    width: 50%;
+    height: 600px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.outerHome {
+    display: flex;
+    justify-content: space-around;
+}

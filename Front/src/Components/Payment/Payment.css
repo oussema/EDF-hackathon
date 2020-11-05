@@ -1,0 +1,43 @@
+.outPayment {
+    display: flex;
+    justify-content: column;
+    flex-direction: column;
+    text-align: left;
+    
+}
+.outAmount{
+    display: flex;
+    justify-content: left;
+    margin: 20px;
+}
+.inputStyle{
+    margin: 5px;
+    height: 20px;
+    float: left;
+}
+.outButton{
+    height: 30px;
+    width: 150px;
+    margin-left: 100px;
+}
+.outAllPayment{
+    display: flex;
+    justify-content: left;
+    margin: 20px;
+    background-color: #ffffff;
+    margin-left: 10%;
+    border-radius: 5px; 
+    margin-right: 10%;
+    width: 80%;
+    height: 500px;
+}
+.outInterest {
+    display: flex;
+    flex-direction: column;
+    margin-left: 35%;
+    background-color: rgb(221, 210, 207);
+    width : 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
